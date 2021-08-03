@@ -1,0 +1,203 @@
+MuiListItemIcon-root:active{
+  color: #75c1f0 !important;
+  text-decoration: none;
+}
+body{
+  font-family: 'Roboto',sans-serif !important;
+}
+
+.nav-menu.active {
+  left: 0;
+  transition: 350ms;
+}
+
+.sidenav_btn {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important;
+}
+.container {
+  padding: 1rem;
+ margin-left: 900px;
+
+}
+.galleryStyle{
+
+  /* background-color:rgb(207 239 231 / 36%); */
+
+
+}
+.gallLink{
+  color: black;
+}
+.gallLink:hover{
+  color: rgb(19, 211, 224);
+  text-decoration: none;
+
+}
+
+a{
+text-decoration: none;
+color:rgba(238, 237, 237, 0.801);
+}
+.socialmedia{
+  width: 20px;
+  height: 20px;
+  color:white;
+margin-top: 5px;
+margin-left: 5px;
+
+}
+
+.iconcontents{
+  border-radius: 100px; 
+  background-color: rgba(128, 128, 128, 0.575);
+  width: 32px;
+  height: 32px;
+  
+  
+}
+.iconcontents:hover{
+   background-color: #75c1f0 !important ;
+   color: white;
+}
+.iconsStyle{
+  width: 24px;
+  height: 24px;
+  color:gray !important;
+}
+.iconsStyle:hover{
+  color: #75c1f0 !important;
+ 
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+  text-decoration: none !important;
+
+}
+link:hover{
+  text-decoration: none;
+}
+
+.section-title {
+ border-radius: 2px solid #149ddd;
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+ /* background: ; */
+  bottom: 0;
+  left: 0;
+}
+.frame{
+  /* border: 2px solid #444444; */
+  /* width: 40px; */
+
+  /* box-shadow: 0.1vw 0.1vw 0.25vw #999999 inset;
+  border: 0.5vw solid var(--backgroundColor);
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 1.20vw;
+  object-fit: cover; */
+
+/* border: 0.5vw solid var(--backgroundColor); */
+  /* perspective: 20px; */
+  /* transition: width 2s, height 2s, transform 2s; */
+  /* transform: perspective(1500px) rotateY(15deg); */
+ /* border-radius: 1rem; */
+
+
+margin: 15px;
+  display: inline-block;
+  box-sizing: border-box;
+  /* width: 100%;
+  height: 100%; */
+
+
+
+  /* padding: 1.20vw; */
+  border: 0.5vw solid #444444;
+  object-fit: cover;
+  box-shadow: 0.1vw 0.1vw 0.25vw #999999 inset;
+
+
+  transform: perspective(1500px) rotateY(25deg); 
+ 
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  transition: transform 1s ease 0s;
+ 
+}
+
+.frame:hover{
+  /* width: 500px;  */
+    /* width: 300px;
+  height: 300px; */
+  /* transform: rotate(360deg); */
+  /* transform: perspective(3000px) rotateY(5deg); */
+
+
+  /* transition: transform 3s;  */
+  transform: rotateY(360deg); 
+}
+
+
+
+
+.breadcrums{
+  color: #6ac5f0;
+}
+.breadcrums:hover{
+color:  #149ddd;
+
+
+}
+
+.imagebox{
+  border: 2px solid rgb(0, 255, 234);
+  border-radius: 1px;
+  background-color: rgb(0, 255, 234);
+}
+
+.MuiButtonBase-root.MuiFab-root.MuiFab-primary{
+  width: 17px;
+    height: 15px;
+}
+
+/* .carousel-item{
+  position: fixed !important;
+} */
+.symbol {
+  width: 55px;
+  height: 45px;
+  font-size: 35px;
+  background-color: #7f7f7f;
+  border-radius: 100%;
+  font-weight: bold;
+  /* margin-left: 100px; */
+  /* padding: auto; */
+  /* padding: 0.1%; */
+}
+.Prsymbol{
+
+}
+.active:hover{
+  text-decoration: none;
+}
+.navtest{
+  color: gray;
+  text-decoration:none ;
+
+  
+}
+.navtest:hover{
+color: white;
+text-decoration:none ;
+}
+.carousel-control-prev{
+  margin-left: 175px;
+}
